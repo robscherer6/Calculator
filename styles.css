@@ -14,3 +14,48 @@ body {
   font-size: 40px;
 }
 
+.number {
+  border: 1px solid black;
+  border-radius: 10px;
+}
+
+.number:hover {
+  background-color: palegreen;
+}
+
+.operator {
+  border: 1px solid black;
+  border-radius: 10px;
+}
+
+.operator:hover {
+  background-color: palegreen;
+}
+
+.equal {
+  border: 1px solid black;
+  border-radius: 10px;
+}
+
+.equal:hover {
+  background-color: palegreen;
+}
+
+.decimal {
+  border: 1px solid black;
+  border-radius: 10px;
+}
+
+.decimal:hover {
+  background-color: palegreen;
+}
+
+.clear {
+  border: 1px solid black;
+  border-radius: 10px;
+}
+
+.clear:hover {
+  background-color: palegreen;
+}
+
