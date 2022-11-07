@@ -59,3 +59,29 @@ body {
   background-color: palegreen;
 }
 
+.first-row {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+}
+
+#screen {
+  border: 1px solid black;
+  width: 300px;
+  height: 75px;
+  margin: 15px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  align-items: flex-end;
+}
+
+.previous {
+  font-size: 20px;;
+}
+
+.current {
+  font-size: 30px;
+}
+
