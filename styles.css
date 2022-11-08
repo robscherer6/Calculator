@@ -7,6 +7,16 @@ body {
   height: 100vh;
 }
 
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  border: 1px solid blueviolet;
+  border-radius: 4px;
+  background-color: aqua;
+}
+
 .btn {
   height: 70px;
   width: 70px;
